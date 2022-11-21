@@ -1,0 +1,41 @@
+body{
+    background-color:royalblue;
+    color:white ;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 
+    'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+img{
+    width: 300px;
+    border-radius: 10px;
+    float: left;
+}
+.row{
+font-weight: bold;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-style:calc();
+}
+.header{
+    background-image: url(pbk.jpg);
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: auto;
+}
+.photos.p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aqua;
+}
+.fa{
+    padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa.gmail{
+    width: 100px;
+}
+    
